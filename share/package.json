@@ -1,0 +1,11 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.share",
+		"tns-android": {
+			"version": "1.7.1"
+		}
+	},
+	"dependencies": {
+		"tns-core-modules": "2.0.0"
+	}
+}
