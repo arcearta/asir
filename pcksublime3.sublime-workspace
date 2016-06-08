@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"ns",
+				"nslistview	{N} ListView"
+			],
+			[
+				"nsgrid",
+				"nsgrid_4x4	{N} GridLayout 4x4"
+			],
+			[
 				"ex",
 				"exports"
 			],
@@ -80,9 +88,25 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "html",
+		"last_filter": "Package Control: ",
 		"selected_items":
 		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"html",
 				"Snippet: html"
@@ -90,10 +114,6 @@
 			[
 				"javas",
 				"Set Syntax: JavaScript"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"pac",
@@ -128,15 +148,11 @@
 				"Project: Add Folder"
 			],
 			[
-				"Package Control: ",
-				"Package Control: List Packages"
-			],
-			[
 				"pa",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 865.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -155,10 +171,28 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/Desarrollo/native/nativescripts/asir/share",
+		"/D/Desarrollo/native/nativescripts/asir/share/app"
+	],
 	"file_history":
 	[
-		"/D/Desarrollo/native/nativescripts/asir/docs/ProcesoInstalacion",
+		"/D/Mis Documentos/Documents/SuraBroker/02_VistaMaterializada_RecibosPendientesPorEntregar.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/02_VistaMaterializada_RecibosPendientesPorEntregar.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/01_Ajuste_VistaMaterializada_RecibosPendientesPorEntregar.sql",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/app.js",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/components/login/login.js",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/components/login/login-view-model.js",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/App_Resources/Android/AndroidManifest.xml",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/package.json",
 		"/D/Desarrollo/native/nativescripts/asir/share/app/main-page.xml",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/main-page.js",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/main-view-model.js",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/components/login/login.xml",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/app.css",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/components/login/login.css",
+		"/D/Desarrollo/native/nativescripts/asir/docs/ProcesoInstalacion",
 		"/D/Desarrollo/Sura/Suramericana.Framework.xml",
 		"/C/Users/carlviar/Desktop/Suramericana.Framework.xml",
 		"/C/Users/carlviar/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/NNDTQPG1/Suramericana Framework.xml",
@@ -190,8 +224,6 @@
 		"/C/Users/carlviar/AppData/Local/Android/sdk/docs/reference/java/util/ArrayList.html",
 		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/02_2_VistaMaterializada_AjusteFechaLimiteConsulta.sql",
 		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/01_TablaServiciosRuta_RecibosPendientesPorEntregar.sql",
-		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/02_VistaMaterializada_RecibosPendientesPorEntregar.sql",
-		"/D/Mis Documentos/Documents/SuraBroker/01_Ajuste_VistaMaterializada_RecibosPendientesPorEntregar.sql",
 		"/C/Users/carlviar/Desktop/wls_arpappsd.properties",
 		"/C/Users/carlviar/Desktop/wls.properties",
 		"/C/Users/carlviar/Desktop/swb.properties",
@@ -232,7 +264,6 @@
 		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/app.css",
 		"/D/Desarrollo/native/nativescripts/sample-Groceries/node_modules/tns-core-modules/camera/camera.ios.js",
 		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/views/login/login.css",
-		"/D/Mis Documentos/Documents/SuraBroker/02_VistaMaterializada_RecibosPendientesPorEntregar.sql",
 		"/D/Mis Documentos/Documents/SuraBroker/01_TablaServiciosRuta_RecibosPendientesPorEntregar.sql",
 		"/D/Mis Documentos/Documents/Mis archivos recibidos/PRIVS_SINIESTROS.SQL",
 		"/D/Mis Documentos/Documents/SuraBroker/EjecucionAsincronaConCallback.sql",
@@ -274,11 +305,7 @@
 		"/D/Desarrollo/Angular2/Starter/index.html",
 		"/C/Users/carlviar/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
 		"/C/Users/carlviar/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/D/Desarrollo/Angular2/Starter/package.json",
-		"/C/Users/carlviar/Desktop/asyncTextDocDef.xml",
-		"/D/Mis Documentos/Documents/cronos/V 3.5.0/Configuracion/log4net.xml",
-		"/D/Mis Documentos/Documents/cronos/V 3.5.0/Configuracion/configuracionCronosNet.xml",
-		"/D/Mis Documentos/Documents/cronos/V 3.5.0/Configuracion/Suramericana.Framework.Cronos.xml"
+		"/D/Desarrollo/Angular2/Starter/package.json"
 	],
 	"find":
 	{
@@ -296,6 +323,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"');\n",
 			"dslogin",
 			"DSLOGIN",
 			"tabPerfilesUsuario",
@@ -365,6 +393,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 379.0
 	},
 	"output.sftp":
 	{
