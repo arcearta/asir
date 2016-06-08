@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"errro",
+				"errorCount"
+			],
+			[
+				"add",
+				"addTableRow"
+			],
+			[
+				"$",
+				"$"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"mes",
+				"message-content"
+			],
+			[
+				"aler",
+				"alert-danger"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"messa",
+				"message-container"
+			],
+			[
+				"comand",
+				"command"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"ion-butt",
+				"ionic-button-bar-positive	Ionic Bar Button"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"ng-rea",
+				"ng-repeat	AngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 865.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Desarrollo/native/nativescripts/asir/docs/ProcesoInstalacion",
+		"/D/Desarrollo/native/nativescripts/asir/share/app/main-page.xml",
+		"/D/Desarrollo/Sura/Suramericana.Framework.xml",
+		"/C/Users/carlviar/Desktop/Suramericana.Framework.xml",
+		"/C/Users/carlviar/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/NNDTQPG1/Suramericana Framework.xml",
+		"/D/Desarrollo/Sura/Suramericana.Framework 6k.xml",
+		"/D/Desarrollo/Sura/Suramericana.Framework 8k.xml",
+		"/D/Desarrollo/Sura/swb/Web.config",
+		"/D/swb/swb_20060731/Web.config",
+		"/D/swb/Web.config",
+		"/D/Desarrollo/Sura/Nuevo Seus/.vs/config/applicationhost.config",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/OBJMUS_CARGOS_MVM.sql",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/OBJMUS_CARGOS_SEUS.sql",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/OBJMUS_PERFILES_USUARIO.sql",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/OBJMUS_PERFILES.sql",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/OBJMUS_DATOS_USUARIO.sql",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/OBJMUS_CARGOS_SINIESTROS.sql",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/PCK_SEUS_STANDARD_CARGOS.sql",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/OBJ_MUS_USR_RESULTADO.sql",
+		"/D/Mis Documentos/Downloads/speedometer_test/AndroidManifest.xml",
+		"/D/Mis Documentos/Downloads/speedometer_test/speedometer_main.xml",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/query_longitud_tablas_seus.sql",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/PCK_SVI_PORTALES.sql",
+		"/D/Desarrollo/Sura/Queries/Cambio longitud dslogin seuss/PCK_SEUS_UTIL.sql",
+		"/D/Desarrollo/native/nativescripts/simpleBarScanner/node_modules/nativescript-barcodescanner/barcodescanner-common.js",
+		"/D/Desarrollo/native/nativescripts/plugins/mqtt/mqtt.android.js",
+		"/C/inetpub/wwwroot/Configuracion/Framework/Version 2.0.0/Suramericana.Framework.xml",
+		"/C/Program Files/IIS Express/config/templates/PersonalWebServer/applicationhost.config",
+		"/D/Desarrollo/native/nativescripts/plugins/mqtt/mqtt-common.js",
+		"/D/Desarrollo/native/nativescripts/simpleBarScanner/node_modules/nativescript-barcodescanner/barcodescanner.android.js",
+		"/C/Users/carlviar/AppData/Local/Android/sdk/docs/reference/java/util/ArrayList.html",
+		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/02_2_VistaMaterializada_AjusteFechaLimiteConsulta.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/01_TablaServiciosRuta_RecibosPendientesPorEntregar.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/02_VistaMaterializada_RecibosPendientesPorEntregar.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/01_Ajuste_VistaMaterializada_RecibosPendientesPorEntregar.sql",
+		"/C/Users/carlviar/Desktop/wls_arpappsd.properties",
+		"/C/Users/carlviar/Desktop/wls.properties",
+		"/C/Users/carlviar/Desktop/swb.properties",
+		"/D/Desarrollo/Sura/Excel_Macro_DividirArchivoCadaNFilas.vb",
+		"/D/Mis Documentos/Downloads/MQTT/J2SE/wmqtt.properties",
+		"/D/Desarrollo/native/nativescripts/plugins/mqtt/package.json",
+		"/D/Desarrollo/Net/DroolsTest/DroolsTest/DroolsKnowledgeRepository/expenseRule.drl",
+		"/C/Windows/System32/inetsrv/config/applicationHost.config",
+		"/C/inetpub/wwwroot/Seus/Web.config",
+		"/D/Mis Documentos/Documents/cronos/V 3.5.0/Configuracion/Suramericana.Framework.xml",
+		"/D/Desarrollo/Net/FlexRuleRepository/Rule.Xml",
+		"/C/inetpub/wwwroot/FlexRules/Web.config",
+		"/D/Desarrollo/Sura/Nuevo Seus/Suramericana.Framework.Security.SSO/Suramericana.Framework.Security.SSO.csproj",
+		"/D/Desarrollo/Libs/IKVM/bin-x86/README",
+		"/D/Desarrollo/Libs/IKVM/THIRD_PARTY_README",
+		"/D/Desarrollo/native/nativescripts/simpleBarScanner/app/views/main/main-page.xml",
+		"/D/Desarrollo/native/nativescripts/simpleBarScanner/app/views/main/main-page.js",
+		"/D/Desarrollo/Android/tessereact/README",
+		"/C/Users/carlviar/Desktop/prototipo SVN/sampleSvnPage.html",
+		"/D/Desarrollo/native/nativescripts/simpleBarScanner/package.json",
+		"/D/Desarrollo/Android/tessereact/AndroidManifest.xml",
+		"/D/Desarrollo/JavaLogic/barcodeScanner/classes.jar",
+		"/D/Desarrollo/JavaLogic/barcodeScanner/AndroidManifest.xml",
+		"/D/Desarrollo/native/nativescripts/simpleBarScanner/app/app.js",
+		"/C/Users/carlviar/AppData/Local/Temp/7zO0AC92111/AndroidManifest.xml",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/views/login/login.xml",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/shared/view-models/user-view-model.js",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/views/login/login.js",
+		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/AsignarPermisoVista_uuc.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/01_Ajuste_VistaMaterializada_RecibosPendientesPorEntregar.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/02_AsignarPermisoTablaConf_MapeoInfo.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/prod/pendientes/AsignarPermisoVista_MapeoInfo.sql",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/views/list/list.js",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/views/list/list.xml",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/views/register/register.js",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/shared/view-models/grocery-list-view-model.js",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/views/list/list.css",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/app.css",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/node_modules/tns-core-modules/camera/camera.ios.js",
+		"/D/Desarrollo/native/nativescripts/sample-Groceries/app/views/login/login.css",
+		"/D/Mis Documentos/Documents/SuraBroker/02_VistaMaterializada_RecibosPendientesPorEntregar.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/01_TablaServiciosRuta_RecibosPendientesPorEntregar.sql",
+		"/D/Mis Documentos/Documents/Mis archivos recibidos/PRIVS_SINIESTROS.SQL",
+		"/D/Mis Documentos/Documents/SuraBroker/EjecucionAsincronaConCallback.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/02_AsignarPermisoTablaConf_MapeoInfo.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/AsignarPermisoVista_MapeoInfo.sql",
+		"/D/Desarrollo/Ionic/Ionic-Material/demo/package.json",
+		"/D/Mis Documentos/Documents/SuraBroker/AsignarPermisoVista_ucc.sql",
+		"/C/Users/carlviar/Desktop/sampleSvnPage.html",
+		"/C/Users/carlviar/Desktop/http",
+		"/D/Desarrollo/Sura/VentaInformacion_WEB3/VentaInformacionEJB/ejbModule/src_gen/co/com/sura/ventainformacion/persistence/storedProcedures/pkggrl_web_empresas/Pkggrl_web_empresasSPCaller.java",
+		"/D/Desarrollo/Sura/VentaInformacion_WEB3/VentaInformacionEJB/ejbModule/src_gen/co/com/sura/ventainformacion/persistence/storedProcedures/pkggrl_web_empresas/pcngrl_datos_basicos_nit/Pcngrl_datos_basicos_nitInputParameter.java",
+		"/D/Desarrollo/Sura/VentaInformacion_WEB3/VentaInformacionEJB/ejbModule/src_gen/co/com/sura/ventainformacion/persistence/storedProcedures/pkggrl_web_empresas/pcngrl_datos_basicos_nit/Pcngrl_datos_basicos_nitOutputParameter.java",
+		"/D/Desarrollo/Sura/VentaInformacion_WEB3/VentaInformacionEJB/ejbModule/src_gen/co/com/sura/ventainformacion/persistence/storedProcedures/pkgafi_afiliados/Pkgafi_afiliadosSPCaller.java",
+		"/D/Mis Documentos/Documents/SuraBroker/TablaServiciosRuta_RecibosPendientesPorEntregar.sql",
+		"/D/Mis Documentos/Documents/SuraBroker/VistaMaterializada_RecibosPendientesPorEntregar.sql",
+		"/C/Users/carlviar/Desktop/Backlog de Mantenimiento.xml",
+		"/C/wls/librerias/weblogic.librerias/deploy.xml",
+		"/D/Desarrollo/Ionic/Ionic-Material/demo/www/js/controllers.js",
+		"/C/suracmproperties.xml",
+		"/C/wls/librerias/weblogic.librerias/generadores/swb-weblogic.xml",
+		"/C/u01/escritura/arquitectura/config/wls.properties",
+		"/D/Mis Documentos/Documents/Mis archivos recibidos/vista optimus.xml",
+		"/C/u01/escritura/arquitectura/config/swb.properties",
+		"/D/Desarrollo/Ionic/Ionic-Material/demo/www/templates/gallery.html",
+		"/C/u01/escritura/arquitectura/config/swb-config.xml",
+		"/C/u01/escritura/arquitectura/config/ehcache.xml",
+		"/D/Desarrollo/Ionic/TabTestProject/www/templates/tab-chats.html",
+		"/D/Desarrollo/Ionic/TabTestProject/www/templates/tabs.html",
+		"/D/Desarrollo/Ionic/TabTestProject/www/js/app.js",
+		"/D/Desarrollo/Ionic/TabTestProject/www/js/controllers.js",
+		"/D/Desarrollo/Ionic/TabTestProject/www/templates/tab-dash.html",
+		"/D/Desarrollo/Ionic/TabTestProject/www/index.html",
+		"/D/Desarrollo/Ionic/Ionic-Material/demo/www/index.html",
+		"/D/Desarrollo/Ionic/Ionic-Material/demo/www/templates/menu.html",
+		"/D/Desarrollo/AppGyver/myFirstProject/config/app.coffee",
+		"/C/Users/carlviar/Desktop/credentials.json",
+		"/D/Desarrollo/Angular2/Starter/app/app.component.js",
+		"/D/Desarrollo/Angular2/Starter/app/main.js",
+		"/D/Desarrollo/Angular2/Starter/index.html",
+		"/C/Users/carlviar/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/carlviar/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Desarrollo/Angular2/Starter/package.json",
+		"/C/Users/carlviar/Desktop/asyncTextDocDef.xml",
+		"/D/Mis Documentos/Documents/cronos/V 3.5.0/Configuracion/log4net.xml",
+		"/D/Mis Documentos/Documents/cronos/V 3.5.0/Configuracion/configuracionCronosNet.xml",
+		"/D/Mis Documentos/Documents/cronos/V 3.5.0/Configuracion/Suramericana.Framework.Cronos.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dslogin",
+			"DSLOGIN",
+			"tabPerfilesUsuario",
+			"refcursor",
+			"DSLOGIN",
+			"mylicen\n",
+			"-->\n",
+			"ManagedPipelineHandler",
+			"addTableRow",
+			"addAccess",
+			"recibo",
+			"AppenderDesconectadoAudit",
+			"dllcronos"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pcksublime3.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
